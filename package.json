@@ -12,7 +12,7 @@
         "axios": "^0.18.0",
         "bootstrap": "^4.3.1",
         "bootstrap-vue": "^2.0.0-rc.25",
-        "chart.js": "^2.8.0",
+        "chart.js": "^2.9.4",
         "countup.js": "^2.0.4",
         "element-ui": "^2.9.1",
         "js-cookie": "^2.2.0",
